@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is the GitHub profile for Sam Briggs (he/him). 📬 briggs3@uw.edu
+My name is Sam Briggs (he/him). 📬 briggs3@uw.edu
 
 - 🏋🏼‍♂️ I am currently interning as a Machine Learning Engineer at NASA.
 - 🌞 Last summer I interned for a startup, Halosight, as a NLP/ML Engineer. 
